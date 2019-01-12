@@ -1,0 +1,19 @@
+{
+  "name": "firstnodeapp",
+  "version": "1.0.0",
+  "description": "My first node.js app implemented by following article on Medium",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "app"
+  ],
+  "author": "Rija Aamir",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
